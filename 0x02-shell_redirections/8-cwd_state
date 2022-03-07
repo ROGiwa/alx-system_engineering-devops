@@ -1,2 +1,2 @@
 #!/bin/bash 
- echo "ls -la" > Is_cwd_content
+ls -la > Is_cwd_content
